@@ -1,0 +1,95 @@
+/* backgroundcolors for different Types*/
+.normal-bg{
+    background:linear-gradient(to bottom right,#bcbcab83,#a7a798) ;
+}
+.fighting-bg{
+    background:linear-gradient(to bottom right,#bc544281,#bc5442) ;
+}
+.poison-bg{
+    background:linear-gradient(to bottom right,#ac549a93,#ac549afb) ;
+}
+.fire-bg{
+    background:linear-gradient(to bottom right,#ff421c98,#ff421cec)
+}
+.grass-bg{
+    background:linear-gradient(to bottom right,#78cd5488, #78cd54);
+}
+.bug-bg{
+    background:linear-gradient(to bottom right,#acbc1c81,#acbc1c) ;
+}
+.ground-bg{
+    background:linear-gradient(to bottom right,#debc54a1,#debc54) ;
+}
+.rock-bg{
+    background:linear-gradient(to bottom right,#b5a46270,#b5a462) ;
+}
+.psychic-bg{
+    background:linear-gradient(to bottom right,#ff549b6c,#ff549b) ;
+}
+.water-bg{
+    background:linear-gradient(to bottom right,#2f9aff57,#2f9aff) ;
+}
+.electric-bg{
+    background:linear-gradient(to bottom right,#feca307e,#feca30) ;
+}
+.ghost-bg{
+    background:linear-gradient(to bottom right,#6666bc81,#6666bc) ;
+}
+
+.ice-bg{
+    background:linear-gradient(to bottom right,#78ddff63,#78ddff );
+}
+.dragon-bg{
+    background:linear-gradient(to bottom right,#a898fa88,#a898fa) ;
+}
+.fairy-bg{
+    background:linear-gradient(to bottom right,#f8daf8a2,#ff8eff );
+    }
+/* backgroundcolors for different Types (span)*/
+.normal-type-bg{
+    background-color:#bcbcabd7 ;
+}
+.fighting-type-bg{
+    background-color:#bc5442da ;
+}
+.poison-type-bg{
+    background-color:#ac549ae7 ;
+}
+.fire-type-bg{
+    background-color:#ff421cde ;
+}
+.grass-type-bg{
+    background-color:#78cd54d7 ;
+    
+}
+.bug-type-bg{
+    background-color:#acbc1ce7 ;
+}
+.ground-type-bg{
+    background-color:#debc54ea ;
+}
+.rock-type-bg{
+    background-color:#b5a462ee ;
+}
+.psychic-type-bg{
+    background-color:rgba(255, 84, 155, 0.87) ;
+}
+.water-type-bg{
+    background-color:#2f9affde ;
+}
+.electric-type-bg{
+    background-color:#feca30e8 ;
+}
+.ghost-type-bg{
+    background-color:#6666bce1 ;
+}
+
+.ice-type-bg{
+    background-color:#78ddffe5 ;
+}
+.dragon-type-bg{
+background-color:#a898fae3 ;
+}
+.fairy-type-bg{
+    background-color:#ffccfff8 ;
+    }
